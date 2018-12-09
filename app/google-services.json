@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "495090297156",
+    "firebase_url": "https://boomgard-a6bd7.firebaseio.com",
+    "project_id": "boomgard-a6bd7",
+    "storage_bucket": "boomgard-a6bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495090297156:android:6f67d6d09efa5886",
+        "android_client_info": {
+          "package_name": "com.icteck.www.boomgard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495090297156-r4jb28q2tihrfr2fhn1bdojhpmtb6fbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icteck.www.boomgard",
+            "certificate_hash": "322f323780900a3d7dff70d79512afcfca6f6f0e"
+          }
+        },
+        {
+          "client_id": "495090297156-32k9j9ggpv6itkvhai160udqagm190sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4l0IUJRNM878IyaFbL6DeTEGxufbv4v0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495090297156-32k9j9ggpv6itkvhai160udqagm190sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495090297156:android:3ebd93a8c4a35d1b",
+        "android_client_info": {
+          "package_name": "com.pardaz.karafan.karafantest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495090297156-d4pcgp3evnr0fs9t1ppuj6k3450g5tgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pardaz.karafan.karafantest",
+            "certificate_hash": "b130045dec76b6042866679867e3132046c2a3bc"
+          }
+        },
+        {
+          "client_id": "495090297156-32k9j9ggpv6itkvhai160udqagm190sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4l0IUJRNM878IyaFbL6DeTEGxufbv4v0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495090297156-32k9j9ggpv6itkvhai160udqagm190sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
