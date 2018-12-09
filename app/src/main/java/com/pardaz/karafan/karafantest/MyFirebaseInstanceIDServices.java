@@ -2,6 +2,7 @@ package com.pardaz.karafan.karafantest;
 
 import android.content.SharedPreferences;
 import android.util.Log;
+import android.widget.Toast;
 
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
@@ -22,6 +23,8 @@ public class MyFirebaseInstanceIDServices extends FirebaseInstanceIdService {
         editor.putString("token", refreshedToken);
         editor.apply();
         Log.i("Yousef: ", "hello");
+        Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
+
 
 
 
